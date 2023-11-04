@@ -41,4 +41,4 @@ Aqui está um resumo das documentações do Git e do GitHub, separado por tópic
 | `git repository settings` | Configurações avançadas do repositório                     |
 | `git collaboration`       | Colaboração com outros usuários e equipes                  |
 
-Essa tabela resume alguns dos comandos e funcionalidades essenciais do Git e do GitHub. Para obter mais detalhes e informações, consulte as respectivas documentações nos links fornecidos.
+
